@@ -3,6 +3,7 @@ Advent of Code 2024, each day in a different language. Let's see how far I can g
 List of languages already done:
 
 - Day 1: Matlab
+- Day 2: Nim
 
 List of languages to pick from:
 
@@ -16,6 +17,7 @@ List of languages to pick from:
 - TypeScript
 - Kotlin
 - C
+- Zig
 - Haskell
 - Ruby
 - Scala
@@ -28,5 +30,3 @@ List of languages to pick from:
 - Dart
 - Lisp
 - Scheme
-- Nim
-- Smalltalk
