@@ -4,6 +4,7 @@ List of languages already done:
 
 - Day 1: Matlab
 - Day 2: Nim
+- Day 3: Ruby
 
 List of languages to pick from:
 
@@ -19,7 +20,6 @@ List of languages to pick from:
 - C
 - Zig
 - Haskell
-- Ruby
 - Scala
 - Elixir
 - Julia
