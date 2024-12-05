@@ -5,6 +5,8 @@ List of languages already done:
 - Day 1: Matlab
 - Day 2: Nim
 - Day 3: Ruby
+- Day 4: C
+- Day 5: Dart
 
 List of languages to pick from:
 
@@ -17,7 +19,6 @@ List of languages to pick from:
 - Go
 - TypeScript
 - Kotlin
-- C
 - Zig
 - Haskell
 - Scala
@@ -27,6 +28,5 @@ List of languages to pick from:
 - R
 - Ada
 - F#
-- Dart
 - Lisp
 - Scheme
